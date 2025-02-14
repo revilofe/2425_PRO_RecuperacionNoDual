@@ -8,7 +8,7 @@ Se presentan cuatro enlaces para describir el contenido de la recuperación de l
 
 ## Enlaces importantes
 
-1. [Descripción](./descripcion.md)
+1. [Descripción](./Descripcion.md)
 2. [Flujo de programa](./FlujoDePrograma.md)
 3. [Preguntas](./Preguntas.md)
 4. [Evaluación](./Evaluacion.md)
